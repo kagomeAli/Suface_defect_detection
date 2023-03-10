@@ -1,0 +1,14 @@
+data
+*__pycache__
+*.pt
+.hypothesis
+log
+dataset
+Tensorboard
+Output
+info.txt
+Mnist
+Metric
+Result
+SURVEY
+Reference
